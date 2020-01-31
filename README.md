@@ -15,6 +15,8 @@ De detailpagina wordt geopend wanneer er op de eerste image in de grid wordt gek
 Ik durfde voorheen niks met media queries te doen, omdat ik niet begreep hoe ik daar gebruik
 van kon maken en nu is het stiekem zelfs leuk geworden.
 
+https://tchkhet.github.io/frontend-responsive-design/
+
 
 ## Criteria
 ### 1.) De HTML is gestructureerd en semantisch opgemaakt
